@@ -7,6 +7,7 @@ Rectangle::Rectangle() {
     width = 0;
 }
 
+//defining destructor
 Rectangle::~Rectangle() {}
 
 void Rectangle::setVAriables(float newlength, float newWidth) {

@@ -14,7 +14,7 @@ namespace Shapes
 
 
         //Accessor methods
-        void setvariable(double newbase, double newheight);
+        void setVariable(double newbase, double newheight);
         double getbase() const;
         double getheight() const;
     };

@@ -1,0 +1,14 @@
+Total Weight: 165
+This is not the same person
+Jane is younger than John
+John's Age: 722840348
+John's firstname is: John
+John's weight is: 75Total Weight: 165
+This is not the same person
+John's Age: 0
+John's firstname is: John
+John's weight is: 75Total Weight: 165
+This is not the same person
+John's Age: 0
+John's firstname is: John
+John's weight is: 75
